@@ -6,6 +6,7 @@ import org.springframework.context.annotation.ComponentScan;
 
 
 /**
+ * Main class for sprint boot start.
  * @author caio.rodrigo.santos
  *
  */
