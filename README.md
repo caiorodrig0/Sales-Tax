@@ -1,7 +1,7 @@
 Application to solve the sales taxes coding problem.
 
 <b>Tools used:</b><br/>
-Spring boot - we created some microservice to the operations and can be used via browser or consumed by another application if neede.<br/>
+Spring boot - we created some microservice to the operations and can be used via browser or consumed by another application if needed.<br/>
 MongoDB - we created some database transactions just to make some real case. <br/>
 Java 1.8<br/><br/><br/>
 
